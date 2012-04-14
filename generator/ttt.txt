@@ -1,1 +1,28 @@
-<sentence> blah 
+<sentence> <pronoun> <verb> <preposition> <noun-phrase>
+
+<noun-phrase> <lpronoun>
+<noun-phrase> <article> <location>
+<noun-phrase> <noun> 
+<noun> socks 
+<noun> clothes
+<location> bushes 
+<location> mountain
+<article> the 
+<article> a
+<pronoun> i 
+<pronoun> you 
+<pronoun> me 
+<pronoun> them 
+<pronoun> thee
+<lpronoun> me 
+<lpronoun> i 
+<lpronoun> them 
+<lpronoun> you 
+<lpronoun> thee
+<verb> hang out with
+<verb> chicken
+<verb> drink beer
+<preposition> at 
+<preposition> on 
+<preposition> in 
+<preposition> under
